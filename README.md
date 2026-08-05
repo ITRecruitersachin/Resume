@@ -111,7 +111,7 @@ Expertise:
 contact:
   email       : "writeforsachin@gmail.com"
   linkedin    : "linkedin.com/in/recruitersachin"
-  whatsapp    : "+91-9742080111"
+  whatsapp    : "+91-9742434111"
 
 motto: >
   "Every placement is a promise.
@@ -188,8 +188,8 @@ motto: >
 |:-------|:------------|
 | 💼 Experience | 10+ Years in US IT Recruitment |
 | 🌎 Coverage | Nationwide (50 States + D.C.) |
-| 👥 Recruitment Type | Federal • State • Commercial |
-| 🔍 Sourcing | AI + Boolean + X-Ray |
+| 👥 Recruitment Type | Federal Government • State Government • Commercial • Enterprise • Fortune 500 |
+| 🔍 Sourcing | AI-Powered + Semantic + Skills-Based Matching + Talent Intelligence + Candidate Enrichment + Boolean + X-Ray + Workflow Automation |
 | 📄 Hiring | W2 • 1099 • Contract • CTH • Full-Time |
 | 💻 Domains | Cloud • AI • Cybersecurity • ERP • Data • Infrastructure |
 | 🗂 ATS | Bullhorn • JobDiva • Ceipal |
@@ -203,15 +203,54 @@ motto: >
 
 <div align="center">
 
-| Talent Acquisition | Technical Recruiting | Delivery |
-|:-------------------|:---------------------|:--------|
-| Boolean Search | Cloud Recruitment | Candidate Screening |
-| Google X-Ray | AI / ML | Resume Evaluation |
-| LinkedIn Recruiter | Cybersecurity | Interview Coordination |
-| Passive Sourcing | ERP / SAP | Client Management |
-| Talent Mapping | DevOps | Offer Negotiation |
-| Market Intelligence | Data Engineering | Onboarding |
-| Executive Search | Infrastructure | Compliance |
+| Intelligent Talent Acquisition | Advanced Technical Recruiting | Strategic Recruitment Delivery |
+|:-------------------------------|:------------------------------|:-------------------------------|
+| AI-Powered Sourcing | AI / ML & GenAI | End-to-End Recruitment |
+| Talent Intelligence | Software Engineering | Full-Cycle Recruitment |
+| Semantic Search | Cloud Computing (AWS, Azure, GCP) | Recruitment Delivery |
+| Skills-Based Matching | Cloud & Platform Engineering | Candidate Screening |
+| Candidate Enrichment | Data Engineering | Technical Assessment |
+| Advanced Boolean Search | Data Science & Analytics | Resume Evaluation |
+| Google X-Ray Search | Machine Learning | Interview Coordination |
+| OSINT Research | Deep Learning | Hiring Manager Partnership |
+| LinkedIn Recruiter | LLM Engineering | Client Relationship Management |
+| Passive Talent Sourcing | Prompt Engineering | Stakeholder Management |
+| Talent Mapping | AI Agents & Agentic AI | Offer Negotiation |
+| Talent Pipeline Development | MCP (Model Context Protocol) | Compensation & Rate Negotiation |
+| Market Intelligence | Retrieval-Augmented Generation (RAG) | Candidate Experience |
+| Competitive Talent Intelligence | Vector Databases | Pre-Closing & Closing |
+| Diversity Talent Sourcing | LangChain & LangGraph | Onboarding |
+| Executive Search | LlamaIndex | Compliance |
+| Internet Research | Python Development | SLA & KPI Delivery |
+| Referral Recruiting | Java Development | Vendor Management |
+| Social Recruiting | .NET Development | ATS & CRM Management |
+| GitHub Sourcing | JavaScript / TypeScript | Recruitment Operations |
+| Stack Overflow Sourcing | React.js | Workforce Planning |
+| Kaggle Sourcing | Angular | Workforce Analytics |
+| Hugging Face Sourcing | Node.js | Resource Planning |
+| Dribbble & Behance Sourcing | Full Stack Engineering | Account Management |
+| Technical Community Sourcing | DevOps & SRE | Delivery Management |
+| Networking & Headhunting | Platform Engineering | Priority Requirement Delivery |
+| Talent Market Research | Site Reliability Engineering | High-Volume Recruitment |
+| Workforce Intelligence | Kubernetes | Critical Position Hiring |
+| Employer Branding | Docker | Time-to-Fill Optimization |
+| Recruitment Analytics | CI/CD | Submission-to-Interview Optimization |
+| Pipeline Forecasting | Microservices | Submission Quality Management |
+| Candidate Persona Mapping | REST APIs | Interview-to-Offer Optimization |
+| Candidate Engagement | Enterprise Architecture | Offer-to-Join Optimization |
+| AI-Assisted Outreach | ERP / SAP | Client Communication |
+| Email Campaign Automation | Salesforce | Vendor Coordination |
+| CRM Automation | Oracle Technologies | Requirement Qualification |
+| Recruitment Automation | ServiceNow | Requirement Prioritization |
+| Search Strategy Design | Workday | Job Intake Meetings |
+| Advanced Search Logic | Microsoft Dynamics 365 | Hiring Strategy Consultation |
+| Multi-Channel Sourcing | Cybersecurity | Recruitment Reporting |
+| Niche Talent Acquisition | IAM & Identity Security | Recruitment Documentation |
+| Global Talent Search | Network Engineering | Process Compliance |
+| Geographic Talent Mapping | Infrastructure Engineering | Background Verification Coordination |
+| Workforce Segmentation | Database Administration | Joining Coordination |
+| Candidate Relationship Management | QA Automation | Talent Pool Management |
+| Passive Candidate Engagement | Mobile Development | Recruitment Process Improvement |
 
 </div>
 
