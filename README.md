@@ -41,7 +41,7 @@
 <img src="https://img.shields.io/badge/🎯_TAT-24_HRS_AVG-e91e63?style=for-the-badge&labelColor=560027"/>
 <img src="https://img.shields.io/badge/✅_OAR-95%25-00c853?style=for-the-badge&labelColor=003300"/>
 <img src="https://img.shields.io/badge/⏱️_FILL_TIME-48_HRS_AVG-ffd600?style=for-the-badge&labelColor=423300"/>
-<img src="https://img.shields.io/badge/🤝_CLIENTS-300%2B-0091ea?style=for-the-badge&labelColor=003060"/>
+<img src="https://img.shields.io/badge/🤝_CLIENTS-100%2B-0091ea?style=for-the-badge&labelColor=003060"/>
 
 </div>
 
