@@ -1005,33 +1005,6 @@ E --> F[Offer]
 F --> G[Onboarding]
 ```
 
-## Architecture
-
-```mermaid
-graph TD
-A[User] --> B[Frontend]
-B --> C[API Server]
-C --> D[(Database)]
-C --> E[External Service]
-```
-
-## Workflow
-
-```mermaid
-sequenceDiagram
-participant U as User
-participant F as Frontend
-participant A as API
-participant D as Database
-
-U->>F: Open app
-F->>A: Send request
-A->>D: Read/write data
-D-->>A: Response
-A-->>F: Return result
-F-->>U: Show output
-```
-
 ## Roadmap
 
 - [x] Add core features.
@@ -1222,8 +1195,6 @@ F-->>U: Show output
 ## ⭐ Star History
 
 <p align="center">
-
-  repos=ITRecruitersachin/RecruitVerse,ITRecruitersachin/Boolean-Search-Library,ITRecruitersachin/AI-Recruiter-Prompts
   
   <a href="https://star-history.com/#ITRecruitersachin/ITRecruitersachin&Date">
     <picture>
