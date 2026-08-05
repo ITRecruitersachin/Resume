@@ -226,13 +226,7 @@ motto: >
 | Bullhorn |
 | JobDiva |
 | Ceipal |
-| Greenhouse |
-| Lever |
 | SmartRecruiters |
-| Zoho Recruit |
-| Oracle Taleo |
-| iCIMS |
-| Recruit CRM |
 
 </div>
 
