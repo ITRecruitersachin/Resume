@@ -94,7 +94,7 @@ Experience:
   TAT         : "24 HRS"
   OAR         : "95%"
   Fill_time   : "48 hrs avg"
-  Clients     : "300+"
+  Clients     : "100+"
   Team_led    : "5 recruiters"
 
 Expertise:
