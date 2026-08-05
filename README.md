@@ -98,13 +98,15 @@ Experience:
   Team_led    : "5 recruiters"
 
 Expertise:
-  - "Full-Cycle US IT Recruiting"
-  - "Cloud · AI/ML · DevOps · Data Eng"
-  - "SAP · Salesforce · Cybersecurity"
-  - "W2 / C2C / 1099 Tax Structures"
-  - "H1B · OPT · GC · EAD · CPT"
-  - "VMS / MSP / Vendor Neutral"
-  - "High-Volume & Executive Search"
+  - Full-Cycle US IT Recruiting
+  - Cloud · AI/ML · DevOps · Data Eng
+  - SAP · Salesforce · Cybersecurity
+  - W2 / C2C / 1099 Tax Structures
+  - Citizen · Green Card · TN VISA · H-1B · H-4 EAD · L-2 EAD · CPT · OPT · STEM OPT · E-3 · L-1A/L-1B · O-1 · EAD
+  - Direct Client · MSP · VMS · RPO · Staff Augmentation · Statement of Work (SOW) · Prime Vendor · Sub-Vendor
+  · Preferred Supplier Program (PSP) · Master Service Agreement (MSA) · Federal Government · State Government
+  · Enterprise Accounts · Time & Materials (T&M) · Project-Based Hiring"
+  - High-Volume & Executive Search
 
 contact:
   email       : "writeforsachin@gmail.com"
