@@ -1381,3 +1381,1233 @@ F --> G[Onboarding]
 │████████████████████████████████████████████████████████████████████████████████████████████████████████████│
 └────────────────────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
+
+<!-- ============================================================
+     SACHIN R — US IT RECRUITER — GITHUB PROFILE README
+     ITRecruitersachin | Production-Quality Portfolio
+     ============================================================ -->
+
+<!-- ██████████████████████████████████████████████████████████ -->
+<!--                    ANIMATED BINARY BANNER                   -->
+<!-- ██████████████████████████████████████████████████████████ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a2a4a,100:00d4ff&height=200&section=header&text=SACHIN%20R&fontSize=72&fontColor=00d4ff&fontAlignY=45&desc=Senior%20US%20IT%20Recruiter%20%7C%20AI%20Talent%20Acquisition%20%7C%20Technical%20Sourcing&descSize=16&descAlignY=70&animation=twinkling&stroke=00d4ff&strokeWidth=2" width="100%"/>
+
+</div>
+
+<!-- ANIMATED TYPING BANNER -->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🚀+Senior+US+IT+Recruiter+%7C+10%2B+Years+Experience;🤖+AI+Talent+Acquisition+%7C+Boolean+Search+and+X+Ray+Search;🎯+Technical+Sourcing+%7C+Successful+Placements;🌎+Hiring+Across+the+United+States+%7C+All+Visa+Types;🔍+Talent+Intelligence+%7C+Market+Mapping+Specialist;💡+Fortune+500+%7C+Startups+%7C+Government+%7C+State+Client)](https://git.io/typing-svg)
+
+</div>
+
+<!-- DIVIDER -->
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<!-- ============================================================ -->
+<!--                   PROFILE STATS BAR                          -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=ITRecruitersachin&label=Profile+Views&color=FFD700&style=for-the-badge)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/ITRecruitersachin?label=Followers&style=for-the-badge&color=00d4ff&labelColor=0D1117)
+&nbsp;
+![Stars](https://img.shields.io/github/stars/ITRecruitersachin?label=Stars&style=for-the-badge&color=00d4ff&labelColor=0D1117)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/ITRecruitersachin)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:sachin@example.com)
+&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-Download-00d4ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117)](#)
+&nbsp;
+[![Calendly](https://img.shields.io/badge/Calendly-Book%20a%20Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=0D1117)](#)
+
+</div>
+
+<!-- DIVIDER -->
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  TABLE OF CONTENTS / NAV                     -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+## 📑 Quick Navigation
+
+| 🏠 | 👋 | 💼 | 🎯 | 📊 | 💻 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Welcome](#-Welcome) | [About Me](#-about-me) | [Summary](#-professional-summary) | [Expertise](#-core-expertise) | [Metrics](#-recruiting-metrics) | [Tech Domains](#-technology-domains) |
+
+| 🏢 | 🤖 | 🛰️ | 🌎 | 🔍 | 📈 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Industries](#-industries) | [AI Stack](#-ai-recruiting-stack) | [ATS & CRM](#-ats--crm-platforms) | [Job Boards](#-job-boards) | [Sourcing](#-advanced-sourcing) | [Analytics](#-github-analytics) |
+
+| 📋 | 🗺️ | 📜 | 📞 | 🔖 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| [Work Auth](#-us-work-authorization-matrix) | [Locations](#-hiring-locations) | [Certs](#-certifications) | [Contact](#-connect-with-me) | [Boolean](#-boolean-library) |
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                       Welcome SECTION                           -->
+<!-- ============================================================ -->
+
+<a name="-Welcome"></a>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║        ███████╗ █████╗  ██████╗██╗  ██╗██╗███╗  ██╗                ║
+║        ██╔════╝██╔══██╗██╔════╝██║  ██║██║████╗ ██║                ║
+║        ███████╗███████║██║     ███████║██║██╔██╗██║                ║
+║        ╚════██║██╔══██║██║     ██╔══██║██║██║╚████║                ║
+║        ███████║██║  ██║╚██████╗██║  ██║██║██║ ╚███║                ║
+║        ╚══════╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝  ╚══╝               ║
+║                                                                      ║
+║         ★  SENIOR US IT RECRUITER  ★  AI TALENT ACQUISITION  ★     ║
+║         ★  TECHNICAL SOURCING  ★  BOOLEAN SEARCH EXPERT  ★         ║
+║         ★  TALENT INTELLIGENCE  ★  HIRING ACROSS THE USA  ★        ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                       ABOUT ME                               -->
+<!-- ============================================================ -->
+
+<a name="-about-me"></a>
+
+## 👋 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hi, I'm Sachin R 👋
+
+I'm a **Senior US IT Recruiter** based in **Bangalore, India**, specializing in sourcing and placing elite technology talent for **US-based companies** — across all engagement types, visa categories, and technology domains.
+
+With **10+ years** in the US IT staffing industry, I operate as a high-performance technical talent acquisition specialist. I combine **AI-powered sourcing tools**, **Boolean search mastery**, and deep domain knowledge to find candidates that traditional recruiters miss.
+
+</td>
+<td width="40%" align="center" valign="top">
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Location-Bangalore%2C_India-00d4ff?style=for-the-badge&labelColor=0D1117)
+
+![Experience](https://img.shields.io/badge/🏆_Experience-10%2B_Years-FFD700?style=for-the-badge&labelColor=0D1117)
+
+![Focus](https://img.shields.io/badge/🎯_Focus-US_IT_Staffing-00ff88?style=for-the-badge&labelColor=0D1117)
+
+![Mode](https://img.shields.io/badge/🌐_Mode-Remote_/_Hybrid-A855F7?style=for-the-badge&labelColor=0D1117)
+
+![Timezone](https://img.shields.io/badge/🕐_Timezone-IST_(UTC%2B5:30)-00d4ff?style=for-the-badge&labelColor=0D1117)
+
+![Status](https://img.shields.io/badge/✅_Open_To-Senior_Recruiter_Roles-00ff88?style=for-the-badge&labelColor=0D1117)
+
+</td>
+</tr>
+</table>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                   PROFESSIONAL SUMMARY                        -->
+<!-- ============================================================ -->
+
+<a name="-professional-summary"></a>
+
+## 💼 Professional Summary
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="20%">
+<br/>
+<img src="https://img.shields.io/badge/10%2B-Years%20Experience-00d4ff?style=for-the-badge&labelColor=0D1117&color=00d4ff" />
+<br/><sub>US IT Staffing & Technical Recruitment</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="20%">
+<br/>
+<img src="https://img.shields.io/badge/5000%2B-Candidates%20Screened-00ff88?style=for-the-badge&labelColor=0D1117&color=00ff88" />
+<br/><sub>Across All Technology Domains</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="20%">
+<br/>
+<img src="https://img.shields.io/badge/1000%2B-Interviews%20Scheduled-FFD700?style=for-the-badge&labelColor=0D1117&color=FFD700" />
+<br/><sub>Coordinated End-to-End</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="20%">
+<br/>
+<img src="https://img.shields.io/badge/300%2B-Successful%20Placements-A855F7?style=for-the-badge&labelColor=0D1117&color=A855F7" />
+<br/><sub>Contract & Permanent Hires</sub>
+<br/><br/>
+</td>
+
+<td align="center" width="20%">
+<br/>
+<img src="https://img.shields.io/badge/Fortune_500-Hiring%20Experience-FF6B35?style=for-the-badge&labelColor=0D1117&color=FF6B35" />
+<br/><sub>Enterprise-Grade Talent Delivery</sub>
+<br/><br/>
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+> I specialize in **end-to-end US IT recruitment** — from requirement intake through offer negotiation and onboarding — with deep expertise in niche technology roles that require precision sourcing beyond job boards. My **AI-augmented recruiting stack** reduces time-to-fill by 40% while maintaining quality-of-hire standards for Fortune 500 clients, mid-market tech firms, and government contractors.
+
+<br/>
+
+</div>
+
+<br/>
+
+<!-- ANIMATED PROGRESS BARS -->
+<div align="center">
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<!-- ============================================================ -->
+<!--                   CORE EXPERTISE                              -->
+<!-- ============================================================ -->
+
+<a name="-core-expertise"></a>
+
+## 🎯 Core Expertise
+
+<div align="center">
+
+<!-- Row 1 -->
+![Technical Recruiting](https://img.shields.io/badge/Technical%20Recruiting-Expert-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Executive Search](https://img.shields.io/badge/Executive%20Search-Expert-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Leadership Hiring](https://img.shields.io/badge/Leadership%20Hiring-Expert-00d4ff?style=for-the-badge&labelColor=0D1117)
+![AI Recruitment](https://img.shields.io/badge/AI%20Recruitment-Expert-00ff88?style=for-the-badge&labelColor=0D1117)
+![Cloud Hiring](https://img.shields.io/badge/Cloud%20Hiring-Expert-00ff88?style=for-the-badge&labelColor=0D1117)
+
+<!-- Row 2 -->
+![Cybersecurity Hiring](https://img.shields.io/badge/Cybersecurity%20Hiring-Senior-A855F7?style=for-the-badge&labelColor=0D1117)
+![Software Engineering](https://img.shields.io/badge/Software%20Engineering-Senior-A855F7?style=for-the-badge&labelColor=0D1117)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-Senior-A855F7?style=for-the-badge&labelColor=0D1117)
+![DevOps Recruitment](https://img.shields.io/badge/DevOps%20Recruitment-Senior-A855F7?style=for-the-badge&labelColor=0D1117)
+
+<!-- Row 3 -->
+![ERP Recruitment](https://img.shields.io/badge/ERP%20%2F%20SAP%20Recruitment-Specialist-FFD700?style=for-the-badge&labelColor=0D1117)
+![Healthcare IT](https://img.shields.io/badge/Healthcare%20IT-Specialist-FFD700?style=for-the-badge&labelColor=0D1117)
+![Automotive IT](https://img.shields.io/badge/Automotive%20IT-Specialist-FFD700?style=for-the-badge&labelColor=0D1117)
+![Government Staffing](https://img.shields.io/badge/Government%20Staffing-Specialist-FFD700?style=for-the-badge&labelColor=0D1117)
+
+<!-- Row 4 -->
+![MSP / VMS](https://img.shields.io/badge/MSP%20%2F%20VMS-Active-FF6B35?style=for-the-badge&labelColor=0D1117)
+![RPO](https://img.shields.io/badge/RPO-Active-FF6B35?style=for-the-badge&labelColor=0D1117)
+![Direct Clients](https://img.shields.io/badge/Direct%20Clients-Active-FF6B35?style=for-the-badge&labelColor=0D1117)
+![Contract Staffing](https://img.shields.io/badge/Contract%20Staffing-Active-FF6B35?style=for-the-badge&labelColor=0D1117)
+![Permanent Hiring](https://img.shields.io/badge/Permanent%20Hiring-Active-FF6B35?style=for-the-badge&labelColor=0D1117)
+![C2C / W2 / 1099](https://img.shields.io/badge/C2C%20%2F%20W2%20%2F%201099-Active-FF6B35?style=for-the-badge&labelColor=0D1117)
+
+<!-- Row 5 — Boolean & Sourcing -->
+![Boolean Search](https://img.shields.io/badge/Boolean%20Search-Black%20Belt-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Google X-Ray](https://img.shields.io/badge/Google%20X--Ray-Expert-00d4ff?style=for-the-badge&labelColor=0D1117)
+![GitHub Sourcing](https://img.shields.io/badge/GitHub%20Sourcing-Expert-00d4ff?style=for-the-badge&labelColor=0D1117)
+![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn%20Recruiter-Power%20User-0077B5?style=for-the-badge&labelColor=0D1117)
+![Market Mapping](https://img.shields.io/badge/Market%20Mapping-Expert-00ff88?style=for-the-badge&labelColor=0D1117)
+![Talent Intelligence](https://img.shields.io/badge/Talent%20Intelligence-Expert-00ff88?style=for-the-badge&labelColor=0D1117)
+
+<!-- Row 6 — Business -->
+![Rate Negotiation](https://img.shields.io/badge/Rate%20Negotiation-Expert-A855F7?style=for-the-badge&labelColor=0D1117)
+![Salary Benchmarking](https://img.shields.io/badge/Salary%20Benchmarking-Expert-A855F7?style=for-the-badge&labelColor=0D1117)
+![Competitive Intelligence](https://img.shields.io/badge/Competitive%20Intelligence-Senior-A855F7?style=for-the-badge&labelColor=0D1117)
+![Vendor Management](https://img.shields.io/badge/Vendor%20Management-Senior-FFD700?style=for-the-badge&labelColor=0D1117)
+![Client Management](https://img.shields.io/badge/Client%20Management-Senior-FFD700?style=for-the-badge&labelColor=0D1117)
+![Pipeline Building](https://img.shields.io/badge/Pipeline%20Building-Expert-00ff88?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- END OF PART 1 -->
+<!-- CONTINUES IN PART 2: Technology Domains, Industries, AI Stack, ATS/CRM -->
+<!-- ============================================================ -->
+<!--              PART 2 — TECHNOLOGY DOMAINS                     -->
+<!-- ============================================================ -->
+
+<a name="-technology-domains"></a>
+
+## 💻 Technology Domains
+
+<details open>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br/>
+<div align="center">
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🤖 Artificial Intelligence & Machine Learning</b></summary>
+<br/>
+<div align="center">
+
+![GenAI](https://img.shields.io/badge/Generative%20AI-00d4ff?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
+![LLM](https://img.shields.io/badge/LLM%20Engineering-A855F7?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0D1117)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-00ff88?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-00d4ff?style=for-the-badge&labelColor=0D1117)
+![NLP](https://img.shields.io/badge/NLP%20%2F%20NLU-00ff88?style=for-the-badge&labelColor=0D1117)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-A855F7?style=for-the-badge&labelColor=0D1117)
+
+</div>
+</details>
+
+<details open>
+<summary><b>💻 Software Engineering</b></summary>
+<br/>
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-00d4ff?style=for-the-badge&labelColor=0D1117)
+
+</div>
+</details>
+
+<details open>
+<summary><b>📊 Data Engineering & Analytics</b></summary>
+<br/>
+<div align="center">
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+</div>
+</details>
+
+<details open>
+<summary><b>🔐 Cybersecurity</b></summary>
+<br/>
+<div align="center">
+
+![IAM](https://img.shields.io/badge/IAM-00d4ff?style=for-the-badge&labelColor=0D1117)
+![SOC](https://img.shields.io/badge/SOC%20Analyst-FF6B35?style=for-the-badge&labelColor=0D1117)
+![SIEM](https://img.shields.io/badge/SIEM-A855F7?style=for-the-badge&labelColor=0D1117)
+![GRC](https://img.shields.io/badge/GRC-00ff88?style=for-the-badge&labelColor=0D1117)
+![Penetration Testing](https://img.shields.io/badge/Pen%20Testing-FF0000?style=for-the-badge&labelColor=0D1117)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-FFD700?style=for-the-badge&labelColor=0D1117)
+![CSPM](https://img.shields.io/badge/CSPM-00d4ff?style=for-the-badge&labelColor=0D1117)
+![PAM](https://img.shields.io/badge/PAM-A855F7?style=for-the-badge&labelColor=0D1117)
+![SOAR](https://img.shields.io/badge/SOAR-00ff88?style=for-the-badge&labelColor=0D1117)
+![Threat Intelligence](https://img.shields.io/badge/Threat%20Intel-FF6B35?style=for-the-badge&labelColor=0D1117)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E00?style=for-the-badge&logo=crowdstrike&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-FA582D?style=for-the-badge&labelColor=0D1117)
+![CISSP](https://img.shields.io/badge/CISSP%20Hiring-FFD700?style=for-the-badge&labelColor=0D1117)
+![CISM](https://img.shields.io/badge/CISM%20Hiring-FFD700?style=for-the-badge&labelColor=0D1117)
+
+</div>
+</details>
+
+<details open>
+<summary><b>⚙️ DevOps, SRE & Platform Engineering</b></summary>
+<br/>
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Pulumi](https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SRE](https://img.shields.io/badge/SRE-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Platform Engineering](https://img.shields.io/badge/Platform%20Engineering-00ff88?style=for-the-badge&labelColor=0D1117)
+
+</div>
+</details>
+
+<details>
+<summary><b>🏢 ERP, SAP & Enterprise Systems</b></summary>
+<br/>
+<div align="center">
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP FICO](https://img.shields.io/badge/SAP%20FICO-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP MM](https://img.shields.io/badge/SAP%20MM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP SD](https://img.shields.io/badge/SAP%20SD-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP ABAP](https://img.shields.io/badge/SAP%20ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Oracle ERP](https://img.shields.io/badge/Oracle%20ERP-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Workday](https://img.shields.io/badge/Workday-FF7A2E?style=for-the-badge&logo=workday&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-62D84E?style=for-the-badge&logo=servicenow&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![NetSuite](https://img.shields.io/badge/NetSuite-31B4F5?style=for-the-badge&logo=oracle&logoColor=white)
+![Microsoft Dynamics](https://img.shields.io/badge/MS%20Dynamics-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</div>
+</details>
+
+<details>
+<summary><b>📡 Networking & Telecom</b></summary>
+<br/>
+<div align="center">
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Juniper](https://img.shields.io/badge/Juniper%20Networks-84B135?style=for-the-badge&labelColor=0D1117)
+![SD-WAN](https://img.shields.io/badge/SD--WAN-00d4ff?style=for-the-badge&labelColor=0D1117)
+![CCNA](https://img.shields.io/badge/CCNA%20Hiring-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNP](https://img.shields.io/badge/CCNP%20Hiring-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![5G](https://img.shields.io/badge/5G%20Networks-A855F7?style=for-the-badge&labelColor=0D1117)
+![MPLS](https://img.shields.io/badge/MPLS-00ff88?style=for-the-badge&labelColor=0D1117)
+![BGP/OSPF](https://img.shields.io/badge/BGP%20%2F%20OSPF-FFD700?style=for-the-badge&labelColor=0D1117)
+
+</div>
+</details>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                       INDUSTRIES                             -->
+<!-- ============================================================ -->
+
+<a name="-industries"></a>
+
+## 🏢 Industries Served
+
+<div align="center">
+
+| Industry | Focus Areas |
+|:---------|:-----------|
+| 🚗 **Automotive** | Connected Vehicle, ADAS, Embedded, IoT, EV Software |
+| 🏥 **Healthcare & Life Sciences** | HL7/FHIR, EHR Systems, Medical Devices, HIT |
+| 🏦 **Banking & Financial Services** | Core Banking, Risk, Compliance, FinTech, Trading |
+| 🛡️ **Insurance** | Actuarial Systems, Claims Tech, Underwriting IT |
+| 🏭 **Manufacturing** | MES, SCADA, PLC, Industrial IoT, Supply Chain |
+| 🛒 **Retail & eCommerce** | POS, OMS, Merchandising Tech, Commerce Platforms |
+| 🏛️ **Government & Defense** | Clearance Hiring, FISMA, FedRAMP, DoD IT |
+| 📡 **Telecommunications** | OSS/BSS, 5G, Network Engineering, VoIP |
+| ⚡ **Energy & Utilities** | Smart Grid, SCADA, Renewable Tech, AMI |
+| 💳 **FinTech** | Payments, Blockchain, Crypto, RegTech, WealthTech |
+| 📚 **EdTech** | LMS, EdTech Platforms, K-12 & Higher Ed IT |
+| 🔬 **Biotech & Pharma** | Clinical Data Systems, Lab IT, Regulatory Tech |
+| 🚀 **Aerospace & Defense** | Embedded Systems, Avionics SW, Simulation |
+| 🏗️ **Construction & Engineering** | BIM, CAD, Project Management Tools |
+| 📦 **Logistics & Supply Chain** | WMS, TMS, Last-Mile, Fleet Tech |
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                    AI RECRUITING STACK                        -->
+<!-- ============================================================ -->
+
+<a name="-ai-recruiting-stack"></a>
+
+## 🤖 AI Recruiting Stack
+
+<div align="center">
+
+### 🧠 AI / LLM Tools
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white)
+![Copilot](https://img.shields.io/badge/Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### 🔎 Sourcing Intelligence
+
+![Clay](https://img.shields.io/badge/Clay-000000?style=for-the-badge&labelColor=222&logoColor=white)
+![HireEZ](https://img.shields.io/badge/HireEZ-FF6B35?style=for-the-badge&labelColor=0D1117)
+![SeekOut](https://img.shields.io/badge/SeekOut-4B2A9F?style=for-the-badge&labelColor=0D1117)
+![Juicebox](https://img.shields.io/badge/Juicebox-FF4081?style=for-the-badge&labelColor=0D1117)
+![Apollo.io](https://img.shields.io/badge/Apollo.io-3D5A80?style=for-the-badge&labelColor=0D1117)
+![RocketReach](https://img.shields.io/badge/RocketReach-F6472C?style=for-the-badge&labelColor=0D1117)
+![ContactOut](https://img.shields.io/badge/ContactOut-00BCD4?style=for-the-badge&labelColor=0D1117)
+![Lusha](https://img.shields.io/badge/Lusha-7B2D8B?style=for-the-badge&labelColor=0D1117)
+![ZoomInfo](https://img.shields.io/badge/ZoomInfo-F97316?style=for-the-badge&labelColor=0D1117)
+![Clearbit](https://img.shields.io/badge/Clearbit-2E86AB?style=for-the-badge&labelColor=0D1117)
+![PhantomBuster](https://img.shields.io/badge/PhantomBuster-9B59B6?style=for-the-badge&labelColor=0D1117)
+![Instant Data Scraper](https://img.shields.io/badge/Instant%20Data%20Scraper-00d4ff?style=for-the-badge&labelColor=0D1117)
+
+### ⚡ Automation & Enrichment
+
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Hunter.io](https://img.shields.io/badge/Hunter.io-F95A2C?style=for-the-badge&labelColor=0D1117)
+![Snov.io](https://img.shields.io/badge/Snov.io-00A94F?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                     ATS & CRM PLATFORMS                      -->
+<!-- ============================================================ -->
+
+<a name="-ats--crm-platforms"></a>
+
+## 🛰️ ATS & CRM Platforms
+
+<div align="center">
+
+![JobDiva](https://img.shields.io/badge/JobDiva-0A66C2?style=for-the-badge&labelColor=0D1117)
+![Bullhorn](https://img.shields.io/badge/Bullhorn-FF6B35?style=for-the-badge&labelColor=0D1117)
+![CEIPAL](https://img.shields.io/badge/CEIPAL-5A2D9C?style=for-the-badge&labelColor=0D1117)
+![SmartRecruiters](https://img.shields.io/badge/SmartRecruiters-00A94F?style=for-the-badge&labelColor=0D1117)
+![Workday](https://img.shields.io/badge/Workday-FF7A2E?style=for-the-badge&logo=workday&logoColor=white)
+![Greenhouse](https://img.shields.io/badge/Greenhouse-3AB549?style=for-the-badge&labelColor=0D1117)
+![Lever](https://img.shields.io/badge/Lever-499EFF?style=for-the-badge&labelColor=0D1117)
+![iCIMS](https://img.shields.io/badge/iCIMS-003087?style=for-the-badge&labelColor=0D1117)
+![Taleo](https://img.shields.io/badge/Taleo-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SuccessFactors](https://img.shields.io/badge/SuccessFactors-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![PCRecruiter](https://img.shields.io/badge/PCRecruiter-005B96?style=for-the-badge&labelColor=0D1117)
+![Zoho Recruit](https://img.shields.io/badge/Zoho%20Recruit-E42527?style=for-the-badge&logo=zoho&logoColor=white)
+![Vincere](https://img.shields.io/badge/Vincere-6C47FF?style=for-the-badge&labelColor=0D1117)
+![Beamery](https://img.shields.io/badge/Beamery-00C4CC?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                        JOB BOARDS                            -->
+<!-- ============================================================ -->
+
+<a name="-job-boards"></a>
+
+## 🌎 Job Boards & Talent Marketplaces
+
+<div align="center">
+
+![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn%20Recruiter-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Dice](https://img.shields.io/badge/Dice-E1251B?style=for-the-badge&labelColor=0D1117)
+![Monster](https://img.shields.io/badge/Monster-6D1B7B?style=for-the-badge&labelColor=0D1117)
+![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
+![CareerBuilder](https://img.shields.io/badge/CareerBuilder-2563EB?style=for-the-badge&labelColor=0D1117)
+![ZipRecruiter](https://img.shields.io/badge/ZipRecruiter-00B22D?style=for-the-badge&labelColor=0D1117)
+![TechFetch](https://img.shields.io/badge/TechFetch-FF6B35?style=for-the-badge&labelColor=0D1117)
+![Handshake](https://img.shields.io/badge/Handshake-E84855?style=for-the-badge&labelColor=0D1117)
+![The Ladders](https://img.shields.io/badge/The%20Ladders-F97316?style=for-the-badge&labelColor=0D1117)
+![PMTC](https://img.shields.io/badge/PMTC-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Glassdoor](https://img.shields.io/badge/Glassdoor-00B14F?style=for-the-badge&logo=glassdoor&logoColor=white)
+![AngelList / Wellfound](https://img.shields.io/badge/Wellfound-000000?style=for-the-badge&logo=angellist&logoColor=white)
+![Hired](https://img.shields.io/badge/Hired-1565C0?style=for-the-badge&labelColor=0D1117)
+![Toptal](https://img.shields.io/badge/Toptal-3863A0?style=for-the-badge&logo=toptal&logoColor=white)
+![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=black)
+![ClearanceJobs](https://img.shields.io/badge/ClearanceJobs-002147?style=for-the-badge&labelColor=0D1117)
+![USAJobs](https://img.shields.io/badge/USAJobs-00BFD8?style=for-the-badge&labelColor=0D1117)
+![Stack Overflow Jobs](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<!-- END PART 2 -->
+<!-- CONTINUES IN PART 3: Chrome Extensions, Boolean Search, Sourcing Platforms, Workflow -->
+<!-- ============================================================ -->
+<!--    PART 3 — CHROME EXTENSIONS, SOURCING, BOOLEAN, WORKFLOW  -->
+<!-- ============================================================ -->
+
+<a name="-advanced-sourcing"></a>
+
+## 🔎 Advanced Sourcing Platforms
+
+<div align="center">
+
+### 🐙 Developer Community Platforms
+
+![GitHub](https://img.shields.io/badge/GitHub%20Sourcing-181717?style=for-the-badge&logo=github&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🎨 Creative & Portfolio Platforms
+
+![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)
+![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)
+![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)
+
+### 📋 Professional & Research
+
+![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)
+![Academia.edu](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&labelColor=0D1117)
+![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)
+![Patent Search](https://img.shields.io/badge/Patent%20Search-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Conference Speaker Search](https://img.shields.io/badge/Speaker%20Search-A855F7?style=for-the-badge&labelColor=0D1117)
+
+### 🔬 Technical Forums
+
+![Reddit](https://img.shields.io/badge/Reddit%20r%2Fjobs-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
+![Hacker News](https://img.shields.io/badge/Hacker%20News%20Who's%20Hiring-FF6600?style=for-the-badge&logo=ycombinator&logoColor=white)
+![Discord Tech](https://img.shields.io/badge/Discord%20Tech%20Communities-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Slack Communities](https://img.shields.io/badge/Slack%20Tech%20Channels-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                    CHROME EXTENSIONS                          -->
+<!-- ============================================================ -->
+
+## 🔌 Chrome Extensions Arsenal
+
+<div align="center">
+
+![ContactOut](https://img.shields.io/badge/ContactOut-00BCD4?style=for-the-badge&labelColor=0D1117)
+![Lusha](https://img.shields.io/badge/Lusha-7B2D8B?style=for-the-badge&labelColor=0D1117)
+![RocketReach](https://img.shields.io/badge/RocketReach-F6472C?style=for-the-badge&labelColor=0D1117)
+![Hunter.io](https://img.shields.io/badge/Hunter.io-F95A2C?style=for-the-badge&labelColor=0D1117)
+![Skrapp](https://img.shields.io/badge/Skrapp-1DB954?style=for-the-badge&labelColor=0D1117)
+![Wiza](https://img.shields.io/badge/Wiza-6C63FF?style=for-the-badge&labelColor=0D1117)
+![Clearbit Connect](https://img.shields.io/badge/Clearbit%20Connect-2E86AB?style=for-the-badge&labelColor=0D1117)
+![Instant Data Scraper](https://img.shields.io/badge/Instant%20Data%20Scraper-00d4ff?style=for-the-badge&labelColor=0D1117)
+![LinkedIn Helper](https://img.shields.io/badge/LinkedIn%20Helper-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![PhantomBuster](https://img.shields.io/badge/PhantomBuster-9B59B6?style=for-the-badge&labelColor=0D1117)
+![Dux-Soup](https://img.shields.io/badge/Dux--Soup-FF6B35?style=for-the-badge&labelColor=0D1117)
+![Snov.io](https://img.shields.io/badge/Snov.io-00A94F?style=for-the-badge&labelColor=0D1117)
+![Email Finder](https://img.shields.io/badge/Email%20Finder%20Tools-FFD700?style=for-the-badge&labelColor=0D1117)
+![Grammarly](https://img.shields.io/badge/Grammarly-15C39A?style=for-the-badge&logo=grammarly&logoColor=white)
+![Loom](https://img.shields.io/badge/Loom%20Video%20Outreach-625DF5?style=for-the-badge&logo=loom&logoColor=white)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                    BOOLEAN SEARCH LIBRARY                     -->
+<!-- ============================================================ -->
+
+<a name="-boolean-library"></a>
+
+## 🔍 Boolean Search Library
+
+<details>
+<summary><b>☁️ AWS Cloud Architect Boolean</b></summary>
+
+```boolean
+site:linkedin.com/in ("AWS" OR "Amazon Web Services") AND ("Solutions Architect" OR "Cloud Architect") 
+AND ("EC2" OR "S3" OR "Lambda" OR "EKS") AND ("GC" OR "USC" OR "Green Card" OR "US Citizen") 
+AND ("Texas" OR "Georgia" OR "Michigan" OR "California" OR "Remote")
+-"H1B" -"H-1B" -"require sponsorship"
+```
+</details>
+
+<details>
+<summary><b>🤖 ML Engineer Boolean</b></summary>
+
+```boolean
+site:linkedin.com/in ("Machine Learning Engineer" OR "ML Engineer" OR "AI Engineer") 
+AND ("PyTorch" OR "TensorFlow" OR "LLM" OR "GenAI" OR "RAG") 
+AND ("Python" OR "Scikit-learn" OR "Hugging Face") 
+AND ("Authorized to work" OR "GC" OR "USC" OR "EAD" OR "OPT")
+-"seeking sponsorship" -"need H1B"
+```
+</details>
+
+<details>
+<summary><b>🔐 Cybersecurity Engineer Boolean</b></summary>
+
+```boolean
+site:linkedin.com/in ("Cybersecurity Engineer" OR "Security Engineer" OR "SOC Analyst") 
+AND ("CISSP" OR "CISM" OR "CEH" OR "OSCP" OR "Security+") 
+AND ("SIEM" OR "Splunk" OR "CrowdStrike" OR "Palo Alto" OR "Zero Trust") 
+AND ("USC" OR "Green Card" OR "Secret Clearance" OR "TS/SCI")
+```
+</details>
+
+<details>
+<summary><b>⚙️ DevOps / Platform Engineer Boolean</b></summary>
+
+```boolean
+site:linkedin.com/in ("DevOps Engineer" OR "Platform Engineer" OR "SRE" OR "Site Reliability") 
+AND ("Kubernetes" OR "Docker" OR "Terraform" OR "ArgoCD") 
+AND ("AWS" OR "Azure" OR "GCP") 
+AND ("CI/CD" OR "GitHub Actions" OR "Jenkins") 
+AND ("GC" OR "USC" OR "EAD" OR "OPT" OR "TN")
+-"visa sponsorship required"
+```
+</details>
+
+<details>
+<summary><b>📊 Data Engineer Boolean</b></summary>
+
+```boolean
+site:linkedin.com/in ("Data Engineer" OR "Senior Data Engineer" OR "Lead Data Engineer") 
+AND ("Spark" OR "Databricks" OR "Snowflake" OR "dbt" OR "Airflow") 
+AND ("Python" OR "Scala" OR "SQL") 
+AND ("Authorized to work in US" OR "Green Card" OR "US Citizen" OR "EAD")
+```
+</details>
+
+<details>
+<summary><b>🔍 Google X-Ray Search Templates</b></summary>
+
+```
+# LinkedIn X-Ray — Software Engineer
+site:linkedin.com/in "software engineer" "Java" "Spring Boot" "Microservices" 
+"Austin" OR "Houston" OR "Dallas" "US Citizen" OR "Green Card"
+
+# GitHub Profile X-Ray — ML Engineers
+site:github.com "machine learning" "PyTorch" "LLM" "location" "United States"
+
+# Resume X-Ray — SAP Consultants
+site:docs.google.com OR site:drive.google.com "SAP" "FICO" "S/4HANA" 
+"resume" "SAP Certified" "United States"
+
+# Portfolio X-Ray — React Developers  
+site:github.io OR site:netlify.app "React" "TypeScript" "Software Engineer"
+"United States" "available" OR "open to work"
+
+# Stack Overflow X-Ray
+site:stackoverflow.com/users "machine learning" "python" "location:united states"
+```
+</details>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                   RECRUITMENT WORKFLOW                        -->
+<!-- ============================================================ -->
+
+## 📊 Recruitment Lifecycle
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                   🔄 END-TO-END RECRUITING WORKFLOW                  │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│  📋 REQUIREMENT INTAKE          🔍 MARKET RESEARCH                  │
+│  └── Client briefing            └── Talent landscape mapping        │
+│  └── JD analysis                └── Compensation benchmarking       │
+│  └── Rate/salary discussion     └── Competitor intelligence         │
+│           │                              │                           │
+│           └──────────────┬───────────────┘                          │
+│                          ▼                                           │
+│  🤖 AI-POWERED DISCOVERY        🔎 BOOLEAN SOURCING                 │
+│  └── HireEZ / SeekOut           └── LinkedIn Recruiter              │
+│  └── Clay enrichment            └── GitHub X-Ray search             │
+│  └── ChatGPT + Claude assist    └── Google X-Ray resume mining      │
+│           │                              │                           │
+│           └──────────────┬───────────────┘                          │
+│                          ▼                                           │
+│  📞 TECHNICAL SCREENING         ✅ SHORTLISTING                     │
+│  └── 30-min tech screen         └── Skill validation                │
+│  └── Work auth verification     └── Rate expectation fit            │
+│  └── Culture/location fit       └── Availability confirm            │
+│           │                              │                           │
+│           └──────────────┬───────────────┘                          │
+│                          ▼                                           │
+│  📅 INTERVIEW SCHEDULING        📄 CLIENT SUBMISSION                │
+│  └── Coordinate all panels      └── Formatted resume                │
+│  └── Prep candidate             └── Submission notes                │
+│  └── Send confirmations         └── Rate card attached              │
+│           │                              │                           │
+│           └──────────────┬───────────────┘                          │
+│                          ▼                                           │
+│  💰 OFFER NEGOTIATION          🚀 ONBOARDING                        │
+│  └── Rate counteroffer          └── Paperwork/BGV                   │
+│  └── Compensation packaging     └── Day-1 readiness                 │
+│  └── Closing the candidate      └── 30/60/90 check-ins             │
+│                                                                      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--               US WORK AUTHORIZATION MATRIX                    -->
+<!-- ============================================================ -->
+
+<a name="-us-work-authorization-matrix"></a>
+
+## 📋 US Work Authorization Matrix
+
+<div align="center">
+
+| Visa / Status | Type | Sponsorship | Work Mode | Notes |
+|:-------------|:----:|:-----------:|:---------:|:------|
+| 🇺🇸 **US Citizen (USC)** | Permanent | ❌ Not Required | W2 / C2C / 1099 | All roles, including cleared |
+| 🟢 **Green Card (GC)** | Permanent | ❌ Not Required | W2 / C2C / 1099 | Unrestricted work auth |
+| 🔵 **H1B** | Employer-Tied | ✅ Transfer OK | W2 Only | H1B transfer via petitioning |
+| 🟡 **OPT (F-1)** | Temporary (1yr) | Varies | W2 Only | STEM OPT = 3 years total |
+| 🟠 **STEM OPT** | Temporary (2yr ext) | Employer E-Verify | W2 Only | 24-month STEM extension |
+| 🔴 **CPT (F-1)** | Temporary | University Auth | W2 Only | Student employment only |
+| 🟣 **TN (Canada/Mexico)** | Annual Renewable | ❌ Not Required | W2 Only | USMCA visa categories |
+| 🔵 **L1 (Intracompany)** | Employer-Tied | ✅ Required | W2 Only | L1A/L1B transferee |
+| 🟤 **H4 EAD** | Tied to H1B Spouse | ❌ (EAD card) | W2 / C2C | Based on I-797 approval |
+| ⚪ **EAD (General)** | Temporary | ❌ Not Required | W2 / C2C | Various petition types |
+| 🟡 **GC EAD** | Pending GC | ❌ Not Required | W2 / C2C | I-485 pending stage |
+
+### 💼 Engagement / Tax Term Matrix
+
+| Term | Description | Recruiter Bills | Worker Receives |
+|:-----|:-----------|:---------------:|:---------------:|
+| **W2** | Employer pays payroll taxes | Markup on bill rate | Hourly/salary |
+| **C2C** | Corp-to-Corp (1099 company) | Higher markup | Invoice via LLC |
+| **1099** | Independent contractor | Standard markup | 1099-NEC |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![US Citizen](https://img.shields.io/badge/US%20Citizen-✅%20Preferred-00ff88?style=for-the-badge&labelColor=0D1117)
+![Green Card](https://img.shields.io/badge/Green%20Card-✅%20Accepted-00ff88?style=for-the-badge&labelColor=0D1117)
+![H1B Transfer](https://img.shields.io/badge/H1B%20Transfer-✅%20Accepted-00d4ff?style=for-the-badge&labelColor=0D1117)
+![OPT / STEM OPT](https://img.shields.io/badge/OPT%20%2F%20STEM%20OPT-✅%20Accepted-00d4ff?style=for-the-badge&labelColor=0D1117)
+![TN Visa](https://img.shields.io/badge/TN%20Visa-✅%20Accepted-FFD700?style=for-the-badge&labelColor=0D1117)
+![EAD](https://img.shields.io/badge/EAD-✅%20Accepted-FFD700?style=for-the-badge&labelColor=0D1117)
+![H4 EAD](https://img.shields.io/badge/H4%20EAD-✅%20Accepted-A855F7?style=for-the-badge&labelColor=0D1117)
+![No Sponsorship](https://img.shields.io/badge/New%20H1B%20Sponsorship-❌%20Not%20Available-FF4444?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<!-- END PART 3 -->
+<!-- CONTINUES IN PART 4: Hiring Locations, GitHub Analytics, Streak, Contact, Certifications, Footer -->
+<!-- ============================================================ -->
+<!--   PART 4 — LOCATIONS, ANALYTICS, STREAK, CONTACT     -->
+<!-- ============================================================ -->
+
+<a name="-hiring-locations"></a>
+
+## 🗺️ Hiring Locations
+
+<div align="center">
+
+### 📍 Hiring Footprint
+
+| 🌎 Coverage | 📊 Details |
+|:-----------|:-----------|
+| 🇺🇸 U.S. Coverage | Remote hiring across **all 50 states** |
+| 📍 Primary Hiring States | 24+ States |
+| 🏢 Industries | IT • AI/ML • Cloud • ERP • Engineering • Manufacturing • Banking • Government |
+| 💼 Employment Types | Contract • Contract-to-Hire • Full-Time • Remote • Hybrid • Onsite |
+| ⏰ Time Zones | EST • CST • MST • PST |
+| 🌐 Work Model | Onsite • Hybrid • Remote |
+
+</div>
+
+---
+
+### 🌎 U.S. Hiring Coverage
+
+```mermaid
+mindmap
+  root((🇺🇸 US Hiring))
+    🏙️ Northeast
+      New York
+      New Jersey
+      Massachusetts
+      Connecticut
+      Pennsylvania
+      Hot Markets
+        NYC Metro
+        Boston
+        Philadelphia
+
+    🌊 Southeast
+      Georgia
+      Florida
+      North Carolina
+      Virginia
+      Maryland
+      Hot Markets
+        Atlanta
+        Miami
+        Charlotte
+        DC Metro
+
+    🏔️ Midwest
+      Michigan
+      Illinois
+      Ohio
+      Indiana
+      Wisconsin
+      Minnesota
+      Hot Markets
+        Detroit
+        Chicago
+        Columbus
+        Twin Cities
+
+    ⭐ South & Southwest
+      Texas
+      Tennessee
+      Arizona
+      Colorado
+      Nevada
+      Hot Markets
+        Austin
+        Dallas
+        Houston
+        Denver
+        Phoenix
+
+    🌅 West Coast
+      California
+      Washington
+      Oregon
+      Hot Markets
+        Bay Area
+        Seattle
+        Los Angeles
+        San Diego
+        Portland
+
+    🌐 Remote
+      All 50 U.S. States
+      Remote Opportunities
+```
+
+---
+
+### 📌 Key Recruiting Markets
+
+| 🏙️ Major Markets | 🌎 Coverage |
+|:-----------------|:------------|
+| Detroit | ✅ |
+| Chicago | ✅ |
+| New York City | ✅ |
+| Atlanta | ✅ |
+| Dallas | ✅ |
+| Austin | ✅ |
+| Houston | ✅ |
+| Charlotte | ✅ |
+| Boston | ✅ |
+| Seattle | ✅ |
+| San Francisco Bay Area | ✅ |
+| Los Angeles | ✅ |
+| Philadelphia | ✅ |
+| Washington DC Metro | ✅ |
+| Miami | ✅ |
+| Phoenix | ✅ |
+| Denver | ✅ |
+| Portland | ✅ |
+| 🌐 Remote (All 50 States) | ✅ |
+
+> **Specialized recruiting across multiple U.S. time zones (EST, CST, MST & PST), supporting Direct Clients, MSP/VMS, RPO, and Enterprise hiring engagements.**
+</div>
+
+<br/>
+
+<div align="center">
+
+![Michigan](https://img.shields.io/badge/Michigan-🔥%20Hot-FF4444?style=for-the-badge&labelColor=0D1117)
+![Texas](https://img.shields.io/badge/Texas-🔥%20Hot-FF4444?style=for-the-badge&labelColor=0D1117)
+![Georgia](https://img.shields.io/badge/Georgia-🔥%20Hot-FF4444?style=for-the-badge&labelColor=0D1117)
+![Illinois](https://img.shields.io/badge/Illinois-🔥%20Hot-FF4444?style=for-the-badge&labelColor=0D1117)
+![California](https://img.shields.io/badge/California-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Ohio](https://img.shields.io/badge/Ohio-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Florida](https://img.shields.io/badge/Florida-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![New Jersey](https://img.shields.io/badge/New%20Jersey-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![North Carolina](https://img.shields.io/badge/North%20Carolina-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![New York](https://img.shields.io/badge/New%20York-⚡%20Active-00d4ff?style=for-the-badge&labelColor=0D1117)
+![Washington](https://img.shields.io/badge/Washington-✅%20Available-00ff88?style=for-the-badge&labelColor=0D1117)
+![Pennsylvania](https://img.shields.io/badge/Pennsylvania-✅%20Available-00ff88?style=for-the-badge&labelColor=0D1117)
+![Virginia](https://img.shields.io/badge/Virginia-✅%20Available-00ff88?style=for-the-badge&labelColor=0D1117)
+![Colorado](https://img.shields.io/badge/Colorado-✅%20Available-00ff88?style=for-the-badge&labelColor=0D1117)
+![Remote USA](https://img.shields.io/badge/🌐%20Remote%20USA-All%2050%20States-A855F7?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                    GITHUB ANALYTICS                           -->
+<!-- ============================================================ -->
+
+<a name="-github-analytics"></a>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ITRecruitersachin&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=ffffff&ring_color=00d4ff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ITRecruitersachin&layout=compact&langs_count=8&theme=github_dark&bg_color=0D1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ITRecruitersachin&bg_color=0D1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&hide_border=false&border_color=00d4ff&area_color=0a2a4a" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                      STREAK STATS                            -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ITRecruitersachin&theme=github-dark-blue&background=0D1117&border=00d4ff&stroke=00d4ff&ring=00d4ff&fire=FF6B35&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=00d4ff&dates=888888" width="60%"/>
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                      CERTIFICATIONS                           -->
+<!-- ============================================================ -->
+
+<a name="-certifications"></a>
+
+## 📜 Professional Certifications
+
+| Certification | Provider | Credential |
+|---------------|----------|------------|
+| 🏅 **Niche Recruiting** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/de0aabefe2cc74c02d337c5a8b67ee378811c21086649bac4384b51cd96b73e5/) |
+| 🏅 **Technical Recruiting** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/4774b60946f70c67f95d1c8cb43d51378af79c7a16e92a46ce8503094829a504/) |
+| 🏅 **Generative AI, Recruiting & Talent Acquisition** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/a7882075e24f4c29bc05baadc3559acbc00f3bf849b36ad31fad4c7e68f3d9f3/) |
+| 🏅 **Hire Better, Hire Faster with Social Media** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/76854da4e0b6cc8a137a14484fb8a349604e4aeb710dda9bf8cdd80a2262259e/) |
+| 🏅 **AI Agents for Everyday Professionals** | LinkedIn Learning | [View Certificate](https://www.linkedin.com/learning/certificates/fcc0e5f8bee3c176fb288da92c3ddd60dbe1e946daebe200a4531ba04a8837b0/) |
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                      CONNECT / CONTACT                        -->
+<!-- ============================================================ -->
+
+<a name="-connect-with-me"></a>
+
+## 📞 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ITRecruitersachin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20Now-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="45"/>
+</a>
+
+<a href="mailto:sachin@example.com">
+  <img src="https://img.shields.io/badge/Email-Hire%20Me%20Now-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="45"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Resume-Download%20PDF-00d4ff?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=0D1117" height="45"/>
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Calendly-Book%20a%2030%20Min%20Call-006BFF?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=0D1117" height="45"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| I'm Available For | Details |
+|:-----------------|:--------|
+| 🤝 **Client Partnerships** | Prime vendor alliances, subvendor agreements, MSA setup |
+| 👔 **Recruiter Roles** | Senior/Lead US IT Recruiter (Remote / Bangalore-based) |
+| 🎓 **Boolean Workshops** | Training teams on advanced sourcing & AI recruiting |
+| 🤖 **Sourcing Consultation** | Audit your ATS stack, sourcing workflows & AI tools |
+| 📊 **Market Intelligence** | Talent mapping, comp benchmarking, competitive analysis |
+
+</div>
+
+<br/>
+
+<div align="center"><img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/></div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                          FOOTER                              -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a2a4a,100:00d4ff&height=120&section=footer&text=No%20Resume%20Escapes%20My%20Gravity&fontSize=24&fontColor=00d4ff&fontAlignY=65&animation=twinkling" width="100%"/>
+
+</div>
+
+<div align="center">
+
+**⭐ If this profile helped you find great talent or land your dream role — star this repo! ⭐**
+
+<br/>
+
+![Visitor Counter](https://komarev.com/ghpvc/?username=ITRecruitersachin&label=Profile+Views+Since+Launch&color=00d4ff&style=flat-square)
+
+<br/>
+
+*Last Updated: 2025 | Built with ❤️ by Sachin R | © ITRecruitersachin*
+
+<br/>
+
+```
+🌌  Sourcing talent like gravity — invisible, relentless, universal.  🌌
+```
+
+</div>
+
+<!-- ============================================================
+     END OF README.md
+     ITRecruitersachin | US IT Recruiter | GitHub Profile
+     ============================================================ -->
+
