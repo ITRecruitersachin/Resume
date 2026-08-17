@@ -9,7 +9,9 @@ Email: writeforsachin@gmail.com
 <div align="center">
 LinkedIn: https://www.linkedin.com/in/recruitersachin/ 
 <div align="center">
-GitHub: http://github.com/ITRecruitersachin Bangalore, India
+GitHub: http://github.com/ITRecruitersachin
+ <div align="center">
+  Bangalore, India
  </div>
 
 ---
